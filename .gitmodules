@@ -1,0 +1,6 @@
+[submodule "bgen"]
+	path = bgen
+	url = https://github.com/dcdehaas/bgen
+[submodule "picovcf"]
+	path = picovcf
+	url = https://github.com/aprilweilab/picovcf
